@@ -3,3 +3,7 @@
 *datasets/fma/fma_metadata
 *datasets/fma/fma_small_spectrograms_jpg
 *datasets/fma/fma_small_spectrograms_png
+
+# csv files
+fma_small_932_features.csv
+fma_small_extracted_features.csv

@@ -1,4 +1,6 @@
 /.venv
+
+# datasets
 *datasets/fma/fma_small
 *datasets/fma/fma_metadata
 *datasets/fma/fma_small_spectrograms_jpg
@@ -7,3 +9,8 @@
 # csv files
 fma_small_932_features.csv
 fma_small_extracted_features.csv
+
+# logs
+*my_logs
+*.keras
+

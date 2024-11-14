@@ -6,6 +6,8 @@
 *datasets/fma/fma_small_spectrograms_jpg
 *datasets/fma/fma_small_spectrograms_png
 
+*datasets/jamendo/original_audio
+
 # csv files
 fma_small_932_features.csv
 fma_small_extracted_features.csv
@@ -14,3 +16,4 @@ fma_small_extracted_features.csv
 *my_logs
 *.keras
 
+*__pycache__

@@ -7,6 +7,8 @@
 *datasets/fma/fma_small_spectrograms_png
 
 *datasets/jamendo/original_audio
+*datasets/jamendo/reduced_audio_500
+*datasets/jamendo/reduced_audio_1000
 
 # csv files
 fma_small_932_features.csv

@@ -10,6 +10,7 @@
 *datasets/jamendo/reduced_audio_500
 *datasets/jamendo/reduced_audio_1000
 *datasets/jamendo/processed_audio
+*datasets/jamendo/split_audio
 
 # csv files
 fma_small_932_features.csv

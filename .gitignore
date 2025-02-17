@@ -7,10 +7,9 @@
 *datasets/fma/fma_small_spectrograms_png
 
 *datasets/jamendo/original_audio
-*datasets/jamendo/reduced_audio_500
-*datasets/jamendo/reduced_audio_1000
-*datasets/jamendo/processed_audio
-*datasets/jamendo/split_audio
+*datasets/jamendo/audio_30_s_chunks
+*datasets/jamendo/split_audio_dataset
+*datasets/jamendo/split_melspec
 
 # csv files
 fma_small_932_features.csv

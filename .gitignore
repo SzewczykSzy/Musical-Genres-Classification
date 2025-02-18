@@ -10,10 +10,20 @@
 *datasets/jamendo/audio_30_s_chunks
 *datasets/jamendo/split_audio_dataset
 *datasets/jamendo/split_melspec
+*datasets/jamendo/split_mfcc
+*datasets/jamendo/split_features
 
 # csv files
 fma_small_932_features.csv
 fma_small_extracted_features.csv
+
+test_features.csv
+val_features.csv
+train_features.csv
+
+test_metadata.csv
+val_metadata.csv
+train_metadata.csv
 
 # logs
 *my_logs
